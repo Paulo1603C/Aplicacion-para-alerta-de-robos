@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/btnSos"
+        android:icon="@drawable/ic_campana"
+        android:title="SOS"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/btnMapa"
+        android:icon="@drawable/ic_mapa"
+        android:title="Mapa"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/btnPerfil"
+        android:icon="@drawable/ic_user"
+        android:title="Perfil"
+        app:showAsAction="always" />
+</menu>
